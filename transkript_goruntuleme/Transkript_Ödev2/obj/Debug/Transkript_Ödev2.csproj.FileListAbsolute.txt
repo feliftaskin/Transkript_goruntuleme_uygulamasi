@@ -1,0 +1,135 @@
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.exe.config
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.exe
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.pdb
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Npgsql.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Buffers.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Memory.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Text.Json.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Channels.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.ValueTuple.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\Npgsql.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Buffers.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Memory.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Text.Json.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Channels.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\bin\Debug\System.ValueTuple.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.AssemblyReference.cache
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.Form1.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.Properties.Resources.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.GenerateResource.cache
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.CopyComplete
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.exe
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.pdb
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtEkle.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtGüncelle.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtSil.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.GNOHesapla.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.exe.config
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.exe
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.pdb
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Npgsql.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Buffers.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Memory.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Text.Json.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Threading.Channels.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.ValueTuple.dll
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\Npgsql.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Buffers.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Memory.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Text.Json.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Threading.Channels.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\bin\Debug\System.ValueTuple.xml
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.AssemblyReference.cache
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.Form1.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.GNOHesapla.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtEkle.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtGüncelle.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtSil.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.Properties.Resources.resources
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.GenerateResource.cache
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.CopyComplete
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.exe
+C:\Users\Elif\Desktop\Transkript_Ödev2 - Kopya (2)\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.pdb
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.exe.config
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.exe
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Transkript_Ödev2.pdb
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Npgsql.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Buffers.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Memory.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Text.Json.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Channels.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.ValueTuple.dll
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\Npgsql.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Buffers.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Memory.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Text.Json.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Channels.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\bin\Debug\System.ValueTuple.xml
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.AssemblyReference.cache
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.Form1.resources
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.GNOHesapla.resources
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtEkle.resources
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtGüncelle.resources
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.KayıtSil.resources
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.Properties.Resources.resources
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.GenerateResource.cache
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.csproj.CopyComplete
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.exe
+C:\Users\Elif\Desktop\210601019_Fatma_Elif_Taşkın_ödev2\Transkript_Ödev2\obj\Debug\Transkript_Ödev2.pdb
